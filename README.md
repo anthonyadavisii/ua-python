@@ -1,3 +1,5 @@
+Forked this repository due to oversight from the project owners to implement measures to prevent exploitation. We will updated UA with proper oversight and mechanisms to minimize / penalize abusive user patterns.
+
 # ua-python
 ua-python is a collection of scripts to calculate the user authority for each steem account.
 
